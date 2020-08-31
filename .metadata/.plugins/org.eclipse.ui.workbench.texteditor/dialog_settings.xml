@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="565" key="DIALOG_X_ORIGIN"/>
+		<item value="459" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="plugin" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="plugin"/>
+			<item value="main"/>
+			<item value="CSV"/>
+			<item value="2.8.7"/>
+			<item value="jackson.core"/>
+			<item value="dataform"/>
+			<item value="DataFOr"/>
+			<item value="${jackson.version}"/>
+			<item value="com.iqvia.dao.BatchItemsMapper"/>
+			<item value="com.iqvia.dao.BatchItemsMapper.selectBatchItems"/>
+			<item value="com.iqvia.dao"/>
+			<item value="selectBatchItems"/>
+			<item value="punctuation"/>
+		</list>
+		<list key="replacehistory">
+			<item value="2.11.2"/>
+			<item value="2.8.7"/>
+			<item value="symbol"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="311" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="474" key="DIALOG_HEIGHT"/>
+		<item value="741" key="DIALOG_X_ORIGIN"/>
+		<item value="290" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

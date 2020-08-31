@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.iqvia.dao.BatchItemsMapper">
+
+	<resultMap type="com.iqvia.model.BatchItem" id="BatchItem">
+		<result property="batchId" column="batch_id" />
+		<result property="email" column="email" />
+		<result property="initialPassword" column="init_password" />
+		<result property="item" column="item" />
+		<result property="name" column="name" />
+		<result property="reasonForAccess" column="reason_for_access" />
+		<result property="role" column="role" />
+	</resultMap>
+
+	<select id="selectBatchItems"
+		resultType="com.iqvia.model.BatchItem" resultMap="BatchItem">
+		select batch_id
+		,email
+		,init_password
+		,item
+		,name
+		,reason_for_access
+		,role
+		from
+		tb_batch_item
+	</select>
+
+</mapper>

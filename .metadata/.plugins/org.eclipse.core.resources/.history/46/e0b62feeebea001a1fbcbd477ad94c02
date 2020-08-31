@@ -1,0 +1,21 @@
+package com.iqvia.model;
+
+public class PasswordValidator {
+	
+	public boolean rule1(String s) {
+		return s.length()>=8;
+	}
+	
+	public boolean isValid(String password) {
+		boolean result = Stream<String> stream = Stream.of(password);
+		
+		boolean result = true;
+		
+		if (password.length() < 8) {
+			result = false;
+		} 
+		return result;
+
+	}
+
+}

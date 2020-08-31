@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/home/bpracht/iqvia/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2269576844.index
+/main/src/main/resources

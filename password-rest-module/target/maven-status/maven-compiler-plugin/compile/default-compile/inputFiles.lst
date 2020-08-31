@@ -1,0 +1,8 @@
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/handler/PasswordValidator.java
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/model/BatchItem.java
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/model/User.java
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/dao/BatchItemServices.java
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/dao/BatchItemsMapper.java
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/handler/PasswordGenerator.java
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/services/ValidPasswordsService.java
+/home/bpracht/iqvia/password-rest-module/src/main/java/com/iqvia/handler/ValidPasswordHandler.java

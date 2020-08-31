@@ -1,0 +1,37 @@
+package com.iqvia.model;
+import java.util.*; 
+import java.util.stream.Stream; 
+
+public class PasswordValidator {
+	
+	interface PasswordRule {
+		public boolean test(String s);
+	}
+	
+	List<PasswordRule> rules = new ArrayList<>(); 
+	
+	public boolean minLength(String s) {
+		return s.length()>=8;
+	}
+	
+	public PasswordValidator() {
+		rules.add(minLength);
+	}
+	
+	
+	
+	public boolean isValid(String password) {
+		
+		Stream<String> stream = Stream.of(password);
+		
+		stream.filter(rule1);
+		
+		
+		if (password.length() < 8) {
+			result = false;
+		} 
+		return result;
+
+	}
+
+}

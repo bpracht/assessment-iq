@@ -1,0 +1,7 @@
+package com.iqvia.model;
+
+public class Password {
+	private String incoming;
+	
+
+}

@@ -1,0 +1,7 @@
+package com.iqvia.model;
+
+public class PasswordValidator {
+	private String incoming;
+	
+
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.iqvia.model.PasswordValidator"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.stream.Stream"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+<fullyQualifiedTypeName name="com.iqvia.model.PasswordGenerator.RandomCharacterGenerator"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="com.iqvia.model.PasswordGenerator"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Statement"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.transaction.TransactionFactory"/>
+<fullyQualifiedTypeName name="com.iqvia.model.User"/>
+<fullyQualifiedTypeName name="com.iqvia.handler.PasswordHandler"/>
+<fullyQualifiedTypeName name="com.iqvia.handler.PasswordValidator"/>
+<fullyQualifiedTypeName name="com.iqvia.handler.PasswordGenerator"/>
+<fullyQualifiedTypeName name="com.iqvia.dao.BatchItemServices"/>
+<fullyQualifiedTypeName name="com.iqvia.handler.ValidPasswordHandler"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.parser.Entity"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response.Status"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.dataformat.csv.CsvGenerator.Feature"/>
+<fullyQualifiedTypeName name="java.io.StringWriter"/>
+<fullyQualifiedTypeName name="com.iqvia.model.BatchItem"/>
+<fullyQualifiedTypeName name="com.iqvia.dao.BatchItemsMapper"/>
+<fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+<fullyQualifiedTypeName name="javax.ws.rs.HeaderParam"/>
+</qualifiedTypeNameHistroy>

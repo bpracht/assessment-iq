@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/bpracht/iqvia/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3235594027.index
+962116836.index
+2174193383.index
+4160380133.index
+3916544371.index
+295810453.index

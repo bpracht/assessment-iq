@@ -1,0 +1,8 @@
+[2020-08-31 01:28:22.955] [main] [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at FileStorage.loadAsync (/home/bpracht/.p2/pool/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:24724:29)
+    at async FileStorage.init (/home/bpracht/.p2/pool/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:24703:30)
+    at async Promise.all (index 2)
+    at async /home/bpracht/.p2/pool/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:35127:25
+    at async CodeMain.startup (/home/bpracht/.p2/pool/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:35122:17)
+[2020-08-31 01:28:23.007] [main] [info] update#ctor - updates are disabled as there is no update URL

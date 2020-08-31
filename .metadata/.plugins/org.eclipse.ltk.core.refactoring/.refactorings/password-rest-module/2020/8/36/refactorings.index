@@ -1,0 +1,39 @@
+1598806161962	Move file
+1598807245211	Rename resource 'WebContent'
+1598807444753	Delete element
+1598807612769	Move folder
+1598807631350	Move file
+1598807638471	Delete element
+1598807702970	Move 'com' to 'main'
+1598807754541	Delete element
+1598807904200	Move compilation unit
+1598807911758	Delete element
+1598808364267	Rename resource 'OldWebContent'
+1598810496266	Rename type 'Password'
+1598824374843	Rename method 'testTokenMatching'
+1598827841226	Copy compilation unit
+1598828014153	Delete element
+1598828016583	Delete element
+1598828020185	Delete element
+1598828022580	Delete element
+1598828025065	Delete element
+1598828027738	Delete element
+1598829190687	Rename method 'generatePasswordLessThanMinLength'
+1598830289817	Move 'BatchItems.xml' to 'model'
+1598830379557	Rename resource 'BatchItems.xml'
+1598830411851	Move 'BatchItemsMapper.xml' to 'dao'
+1598830436825	Rename type 'BatchItems'
+1598831262698	Copy compilation unit
+1598831278520	Rename type 'PasswordGeneratorTest'
+1598832073212	Copy folder
+1598838250018	Rename local variable 'conn'
+1598839577433	Delete element
+1598839607214	Copy compilation unit
+1598840141839	Move compilation units
+1598840380371	Rename type 'PasswordHandler'
+1598848901247	Rename local variable 'acceptType'
+1598849402235	Delete elements
+1598850644477	Copy packages
+1598850659763	Copy packages
+1598850672777	Copy elements
+1598850690351	Copy elements
